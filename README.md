@@ -5,4 +5,4 @@ It uses the https://github.com/Gottox/socket.io-java-client Socket.io library fo
 Usage
 -----
 
-./run.sh <chat server url>
+./run.sh \<chat server url\>
